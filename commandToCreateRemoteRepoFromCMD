@@ -1,0 +1,2 @@
+curl -u yanioaioan https://api.github.com/user/repos -d '{"name":"testRepocreation"}'
+
